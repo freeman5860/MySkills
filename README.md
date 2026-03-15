@@ -45,6 +45,7 @@ In Claude Code, use the slash command:
 | Skill | Description |
 |-------|-------------|
 | `example` | A demonstration skill showing the standard format |
+| `merge-videos` | Merge multiple video files into one using ffmpeg |
 
 ## Creating Your Own Skill
 
